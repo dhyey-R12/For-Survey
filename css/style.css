@@ -42,7 +42,9 @@
     --container-space: 20px;
     --primary-font-family: 'Figtree', sans-serif;
     --secondary-font-family: 'Criteria CF', sans-serif;
+    --mulish-font-family: 'Mulish', sans-serif;
     --body-font-size: 18px;
+    --body-font-size-small: 16px;
     --text-color: #666666;
     --text-weight: 400;
     --heading-color: #003d2b;
@@ -61,6 +63,7 @@
     --h1-size: 64px;
     --gray-color: #888888;
     --gray-color-bg: #F3F3F3;
+    --title-gray-color: #7C7C7C;
 }
 
 /* Fonts */
@@ -595,13 +598,18 @@ img {
 /* header css end */
 
 /* Footer css start */
+footer,
+footer * {
+    font-family: var(--mulish-font-family);
+}
+
 .site_footer {
     padding: 170px 0 63px;
 }
 
 .site_footer .footer_info {
     width: 100%;
-    max-width: 863px;
+    max-width: 770px;
 }
 
 .site_footer .footer_info {
@@ -614,6 +622,50 @@ img {
     width: 100%;
     max-width: 181px;
     margin-bottom: 19px;
+}
+
+.site_footer .footer_info p {
+    font-size: var(--body-font-size-small);
+}
+
+.site_footer .footer_info a {
+    font-size: 30px;
+    font-weight: 500;
+    display: block;
+    margin-top: 45px;
+}
+
+.site_footer .footer_link_content {
+    margin-top: 35px;
+}
+
+.site_footer .footer_link h6 {
+    margin-bottom: 16px;
+    color: var(--title-gray-color);
+}
+
+.site_footer .footer_link p {
+    font-size: var(--body-font-size-small);
+    margin-bottom: 30px;
+}
+
+.site_footer .footer_link p:last-child {
+    margin-bottom: 0;
+}
+
+.footer_logo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px 20px;
+}
+
+.footer_logo .footer_logo_image {
+    overflow: hidden;
+}
+
+.footer_logo .footer_logo_image img {
+    width: 100%;
+    display: block;
 }
 
 /* Footer css end */
