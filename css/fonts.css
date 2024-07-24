@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.svg#FONTSPRINGDEMO-CriteriaCFMediumItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumItalic.svg#FONTSPRINGDEMO-CriteriaCFMediumItalic') format('svg');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFItalic.svg#FONTSPRINGDEMO-CriteriaCFItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFItalic.svg#FONTSPRINGDEMO-CriteriaCFItalic') format('svg');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.svg#FONTSPRINGDEMO-CriteriaCFMediumRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFMediumRegular.svg#FONTSPRINGDEMO-CriteriaCFMediumRegular') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -39,12 +39,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.svg#FONTSPRINGDEMO-CriteriaCFThinRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinRegular.svg#FONTSPRINGDEMO-CriteriaCFThinRegular') format('svg');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -52,12 +52,12 @@
 
 @font-face {
     font-family: 'Criteria CF Extra';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.svg#FONTSPRINGDEMO-CriteriaCFExtraLightRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightRegular.svg#FONTSPRINGDEMO-CriteriaCFExtraLightRegular') format('svg');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -65,12 +65,12 @@
 
 @font-face {
     font-family: 'Criteria CF Extra';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.svg#FONTSPRINGDEMO-CriteriaCFExtraBoldRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldRegular.svg#FONTSPRINGDEMO-CriteriaCFExtraBoldRegular') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -78,12 +78,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFRegular.svg#FONTSPRINGDEMO-CriteriaCFRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFRegular.svg#FONTSPRINGDEMO-CriteriaCFRegular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -91,12 +91,12 @@
 
 @font-face {
     font-family: 'Criteria CF Extra';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.svg#FONTSPRINGDEMO-CriteriaCFExtraLightItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraLightItalic.svg#FONTSPRINGDEMO-CriteriaCFExtraLightItalic') format('svg');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -104,12 +104,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.svg#FONTSPRINGDEMO-CriteriaCFLightRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightRegular.svg#FONTSPRINGDEMO-CriteriaCFLightRegular') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -117,12 +117,12 @@
 
 @font-face {
     font-family: 'Criteria CF Extra';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFExtraBoldItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFExtraBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFExtraBoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -130,12 +130,12 @@
 
 @font-face {
     font-family: 'Criteria CF Super';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.svg#FONTSPRINGDEMO-CriteriaCFSuperRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperRegular.svg#FONTSPRINGDEMO-CriteriaCFSuperRegular') format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -143,12 +143,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.svg#FONTSPRINGDEMO-CriteriaCFLightItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFLightItalic.svg#FONTSPRINGDEMO-CriteriaCFLightItalic') format('svg');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -156,12 +156,12 @@
 
 @font-face {
     font-family: 'Criteria CF Super';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.svg#FONTSPRINGDEMO-CriteriaCFSuperItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFSuperItalic.svg#FONTSPRINGDEMO-CriteriaCFSuperItalic') format('svg');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -169,12 +169,12 @@
 
 @font-face {
     font-family: 'Criteria CF Demi';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFDemiBoldItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFDemiBoldItalic') format('svg');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -182,12 +182,12 @@
 
 @font-face {
     font-family: 'Criteria CF Demi';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.svg#FONTSPRINGDEMO-CriteriaCFDemiBoldRegular') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFDemiBoldRegular.svg#FONTSPRINGDEMO-CriteriaCFDemiBoldRegular') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -195,12 +195,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.eot');
-    src: url('/fonts//fonts/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFBoldItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.eot');
+    src: url('/fonts/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBoldItalic.svg#FONTSPRINGDEMO-CriteriaCFBoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -208,12 +208,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.svg#FONTSPRINGDEMO-CriteriaCFThinItalic') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFThinItalic.svg#FONTSPRINGDEMO-CriteriaCFThinItalic') format('svg');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -221,12 +221,12 @@
 
 @font-face {
     font-family: 'Criteria CF';
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.eot');
-    src: url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.woff2') format('woff2'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.woff') format('woff'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.ttf') format('truetype'),
-        url('/fonts//fonts/FONTSPRINGDEMO-CriteriaCFBold.svg#FONTSPRINGDEMO-CriteriaCFBold') format('svg');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.eot');
+    src: url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.woff2') format('woff2'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.woff') format('woff'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.ttf') format('truetype'),
+        url('/fonts/FONTSPRINGDEMO-CriteriaCFBold.svg#FONTSPRINGDEMO-CriteriaCFBold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -234,12 +234,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-BoldItalic.eot');
-    src: url('/fonts//fonts/Figtree-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-BoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-BoldItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-BoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-BoldItalic.svg#Figtree-BoldItalic') format('svg');
+    src: url('/fonts/Figtree-BoldItalic.eot');
+    src: url('/fonts/Figtree-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-BoldItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-BoldItalic.woff') format('woff'),
+        url('/fonts/Figtree-BoldItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-BoldItalic.svg#Figtree-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -247,12 +247,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-ExtraBoldItalic.eot');
-    src: url('/fonts//fonts/Figtree-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-ExtraBoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-ExtraBoldItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-ExtraBoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-ExtraBoldItalic.svg#Figtree-ExtraBoldItalic') format('svg');
+    src: url('/fonts/Figtree-ExtraBoldItalic.eot');
+    src: url('/fonts/Figtree-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-ExtraBoldItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-ExtraBoldItalic.woff') format('woff'),
+        url('/fonts/Figtree-ExtraBoldItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-ExtraBoldItalic.svg#Figtree-ExtraBoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -260,12 +260,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-SemiBoldItalic.eot');
-    src: url('/fonts//fonts/Figtree-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-SemiBoldItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-SemiBoldItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-SemiBoldItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-SemiBoldItalic.svg#Figtree-SemiBoldItalic') format('svg');
+    src: url('/fonts/Figtree-SemiBoldItalic.eot');
+    src: url('/fonts/Figtree-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-SemiBoldItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-SemiBoldItalic.woff') format('woff'),
+        url('/fonts/Figtree-SemiBoldItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-SemiBoldItalic.svg#Figtree-SemiBoldItalic') format('svg');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -273,12 +273,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Italic.eot');
-    src: url('/fonts//fonts/Figtree-Italic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Italic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Italic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Italic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Italic.svg#Figtree-Italic') format('svg');
+    src: url('/fonts/Figtree-Italic.eot');
+    src: url('/fonts/Figtree-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Italic.woff2') format('woff2'),
+        url('/fonts/Figtree-Italic.woff') format('woff'),
+        url('/fonts/Figtree-Italic.ttf') format('truetype'),
+        url('/fonts/Figtree-Italic.svg#Figtree-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -286,12 +286,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-LightItalic.eot');
-    src: url('/fonts//fonts/Figtree-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-LightItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-LightItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-LightItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-LightItalic.svg#Figtree-LightItalic') format('svg');
+    src: url('/fonts/Figtree-LightItalic.eot');
+    src: url('/fonts/Figtree-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-LightItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-LightItalic.woff') format('woff'),
+        url('/fonts/Figtree-LightItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-LightItalic.svg#Figtree-LightItalic') format('svg');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -299,12 +299,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Medium.eot');
-    src: url('/fonts//fonts/Figtree-Medium.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Medium.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Medium.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Medium.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Medium.svg#Figtree-Medium') format('svg');
+    src: url('/fonts/Figtree-Medium.eot');
+    src: url('/fonts/Figtree-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Medium.woff2') format('woff2'),
+        url('/fonts/Figtree-Medium.woff') format('woff'),
+        url('/fonts/Figtree-Medium.ttf') format('truetype'),
+        url('/fonts/Figtree-Medium.svg#Figtree-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -312,12 +312,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Light.eot');
-    src: url('/fonts//fonts/Figtree-Light.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Light.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Light.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Light.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Light.svg#Figtree-Light') format('svg');
+    src: url('/fonts/Figtree-Light.eot');
+    src: url('/fonts/Figtree-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Light.woff2') format('woff2'),
+        url('/fonts/Figtree-Light.woff') format('woff'),
+        url('/fonts/Figtree-Light.ttf') format('truetype'),
+        url('/fonts/Figtree-Light.svg#Figtree-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -325,12 +325,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-BlackItalic.eot');
-    src: url('/fonts//fonts/Figtree-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-BlackItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-BlackItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-BlackItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-BlackItalic.svg#Figtree-BlackItalic') format('svg');
+    src: url('/fonts/Figtree-BlackItalic.eot');
+    src: url('/fonts/Figtree-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-BlackItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-BlackItalic.woff') format('woff'),
+        url('/fonts/Figtree-BlackItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-BlackItalic.svg#Figtree-BlackItalic') format('svg');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -338,12 +338,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Regular.eot');
-    src: url('/fonts//fonts/Figtree-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Regular.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Regular.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Regular.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Regular.svg#Figtree-Regular') format('svg');
+    src: url('/fonts/Figtree-Regular.eot');
+    src: url('/fonts/Figtree-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Regular.woff2') format('woff2'),
+        url('/fonts/Figtree-Regular.woff') format('woff'),
+        url('/fonts/Figtree-Regular.ttf') format('truetype'),
+        url('/fonts/Figtree-Regular.svg#Figtree-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -351,12 +351,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-MediumItalic.eot');
-    src: url('/fonts//fonts/Figtree-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-MediumItalic.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-MediumItalic.woff') format('woff'),
-        url('/fonts//fonts/Figtree-MediumItalic.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-MediumItalic.svg#Figtree-MediumItalic') format('svg');
+    src: url('/fonts/Figtree-MediumItalic.eot');
+    src: url('/fonts/Figtree-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-MediumItalic.woff2') format('woff2'),
+        url('/fonts/Figtree-MediumItalic.woff') format('woff'),
+        url('/fonts/Figtree-MediumItalic.ttf') format('truetype'),
+        url('/fonts/Figtree-MediumItalic.svg#Figtree-MediumItalic') format('svg');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -364,12 +364,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Black.eot');
-    src: url('/fonts//fonts/Figtree-Black.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Black.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Black.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Black.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Black.svg#Figtree-Black') format('svg');
+    src: url('/fonts/Figtree-Black.eot');
+    src: url('/fonts/Figtree-Black.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Black.woff2') format('woff2'),
+        url('/fonts/Figtree-Black.woff') format('woff'),
+        url('/fonts/Figtree-Black.ttf') format('truetype'),
+        url('/fonts/Figtree-Black.svg#Figtree-Black') format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -377,12 +377,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-ExtraBold.eot');
-    src: url('/fonts//fonts/Figtree-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-ExtraBold.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-ExtraBold.woff') format('woff'),
-        url('/fonts//fonts/Figtree-ExtraBold.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-ExtraBold.svg#Figtree-ExtraBold') format('svg');
+    src: url('/fonts/Figtree-ExtraBold.eot');
+    src: url('/fonts/Figtree-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-ExtraBold.woff2') format('woff2'),
+        url('/fonts/Figtree-ExtraBold.woff') format('woff'),
+        url('/fonts/Figtree-ExtraBold.ttf') format('truetype'),
+        url('/fonts/Figtree-ExtraBold.svg#Figtree-ExtraBold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -390,12 +390,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-SemiBold.eot');
-    src: url('/fonts//fonts/Figtree-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-SemiBold.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-SemiBold.woff') format('woff'),
-        url('/fonts//fonts/Figtree-SemiBold.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-SemiBold.svg#Figtree-SemiBold') format('svg');
+    src: url('/fonts/Figtree-SemiBold.eot');
+    src: url('/fonts/Figtree-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-SemiBold.woff2') format('woff2'),
+        url('/fonts/Figtree-SemiBold.woff') format('woff'),
+        url('/fonts/Figtree-SemiBold.ttf') format('truetype'),
+        url('/fonts/Figtree-SemiBold.svg#Figtree-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -403,12 +403,12 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/fonts//fonts/Figtree-Bold.eot');
-    src: url('/fonts//fonts/Figtree-Bold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts//fonts/Figtree-Bold.woff2') format('woff2'),
-        url('/fonts//fonts/Figtree-Bold.woff') format('woff'),
-        url('/fonts//fonts/Figtree-Bold.ttf') format('truetype'),
-        url('/fonts//fonts/Figtree-Bold.svg#Figtree-Bold') format('svg');
+    src: url('/fonts/Figtree-Bold.eot');
+    src: url('/fonts/Figtree-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Figtree-Bold.woff2') format('woff2'),
+        url('/fonts/Figtree-Bold.woff') format('woff'),
+        url('/fonts/Figtree-Bold.ttf') format('truetype'),
+        url('/fonts/Figtree-Bold.svg#Figtree-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
