@@ -747,11 +747,48 @@ footer * {
     font-size: var(--body-font-size-small);
 }
 
-.site_footer .footer_info a {
+.site_footer .footer_info a:not(.footer_logo) {
     font-size: 30px;
     font-weight: 500;
-    display: block;
+    display: inline-block;
     margin-top: 45px;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 4px;
+}
+
+.site_footer .footer_info a:not(.footer_logo):after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    height: 2px;
+    transition: all .5s cubic-bezier(.4, 0, .2, 1);
+    background-color: var(--secondary-color);
+    width: 0%;
+}
+
+.site_footer .footer_info a:not(.footer_logo):hover:after {
+    width: 100%;
+}
+
+.site_footer .footer_info a:not(.footer_logo) span {
+    transition: all .5s cubic-bezier(.4, 0, .2, 1);
+    transform-origin: bottom left;
+    display: block;
+}
+
+.site_footer .footer_info a:not(.footer_logo) span:after {
+    content: attr(data-content);
+    position: absolute;
+    left: 0;
+    bottom: 100%;
+    transition: all .5s cubic-bezier(.4, 0, .2, 1);
+}
+
+.site_footer .footer_info a:not(.footer_logo):hover span {
+    transform: translateY(100%);
 }
 
 .site_footer .footer_link_content {
@@ -826,6 +863,7 @@ footer .footer_accrodian h5 span {
     bottom: 0;
     margin: auto;
 }
+
 footer .footer_accrodian h5 span:after,
 footer .footer_accrodian h5 span:before {
     content: '';
@@ -839,9 +877,11 @@ footer .footer_accrodian h5 span:before {
     background-color: #000;
     transition: all 0.3s ease;
 }
+
 footer .footer_accrodian h5 span:after {
     height: 2px;
 }
+
 footer .footer_accrodian h5 span:before {
     width: 2px;
 }
